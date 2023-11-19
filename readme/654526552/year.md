@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/afaq-ahmed07/my-views-counter)
 
-### :octocat: [Student-Managment-System-with-Oracle-Datab](https://github.com/afaq-ahmed07/Student-Managment-System-with-Oracle-Datab)
-![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/654522860/large/year.png)
+### :octocat: [Food-Collector_Assembly_Language](https://github.com/afaq-ahmed07/Food-Collector_Assembly_Language)
+![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/654526552/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/11/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>1</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/11/19 10:16 AM UTC</i></small>
+<small><i>Last updated on 2023/11/19 10:17 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/654522860/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/654522860/week.md)
+[![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/654526552/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/654526552/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/654522860/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/654522860/week.md)
+[![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/654526552/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/654526552/week.md)
 ```
 ### Header
-# Student-Managment-System-with-Oracle-Datab [<img alt="Image of my-views-counter" src="https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/654522860/small/year.png" height="20">](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/654522860/year.md)
+# Food-Collector_Assembly_Language [<img alt="Image of my-views-counter" src="https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/654526552/small/year.png" height="20">](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/654526552/year.md)
 ```readme
-# Student-Managment-System-with-Oracle-Datab [<img alt="Image of my-views-counter" src="https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/654522860/small/year.png" height="20">](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/654522860/year.md)
+# Food-Collector_Assembly_Language [<img alt="Image of my-views-counter" src="https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/654526552/small/year.png" height="20">](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/654526552/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

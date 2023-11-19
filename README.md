@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/11/16 12:00 AM UTC
+			2023/11/17 10:10 AM UTC
 		</td>
 		<td>
 			2
@@ -35,9 +35,73 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/654522860/small/year.png" height="20"> 5
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/606989314/year.md">
+				StudentManagmentSystem
+			</a>
+		</td>
+		<td>
+			2023/11/16 10:16 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/606989314/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/653105890/year.md">
+				OS-Simulation
+			</a>
+		</td>
+		<td>
+			2023/11/16 10:16 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/653105890/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/608704106/year.md">
+				Prim-and-Kruskal
+			</a>
+		</td>
+		<td>
+			2023/11/16 10:16 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/608704106/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/654526552/year.md">
+				Food-Collector_Assembly_Language
+			</a>
+		</td>
+		<td>
+			2023/11/16 10:17 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/654526552/small/year.png" height="20"> 1
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/11/19 10:10 AM UTC</i></small>
+<small><i>Last updated on 2023/11/19 10:17 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
