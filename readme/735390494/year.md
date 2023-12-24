@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/afaq-ahmed07/my-views-counter)
 
-### :octocat: [OS-Simulation](https://github.com/afaq-ahmed07/OS-Simulation)
-![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/653105890/large/year.png)
+### :octocat: [Heart-Disease-Predictor](https://github.com/afaq-ahmed07/Heart-Disease-Predictor)
+![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/735390494/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -34,10 +34,10 @@
 			<code>2023/11/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/12/24 6:57 PM UTC</i></small>
+<small><i>Last updated on 2023/12/24 6:58 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/653105890/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/653105890/week.md)
+[![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/735390494/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/735390494/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/653105890/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/653105890/week.md)
+[![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/735390494/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/735390494/week.md)
 ```
 ### Header
-# OS-Simulation [<img alt="Image of my-views-counter" src="https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/653105890/small/year.png" height="20">](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/653105890/year.md)
+# Heart-Disease-Predictor [<img alt="Image of my-views-counter" src="https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/735390494/small/year.png" height="20">](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/735390494/year.md)
 ```readme
-# OS-Simulation [<img alt="Image of my-views-counter" src="https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/653105890/small/year.png" height="20">](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/653105890/year.md)
+# Heart-Disease-Predictor [<img alt="Image of my-views-counter" src="https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/735390494/small/year.png" height="20">](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/735390494/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -99,9 +99,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/654526552/small/year.png" height="20"> 16
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/735390494/year.md">
+				Heart-Disease-Predictor
+			</a>
+		</td>
+		<td>
+			2023/12/21 6:58 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/735390494/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/12/24 6:10 PM UTC</i></small>
+<small><i>Last updated on 2023/12/24 6:58 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
