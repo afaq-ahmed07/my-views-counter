@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/afaq-ahmed07/my-views-counter)
 
-### :octocat: [OS-Simulation](https://github.com/afaq-ahmed07/OS-Simulation)
-![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/653105890/large/year.png)
+### :octocat: [Sudoku](https://github.com/afaq-ahmed07/Sudoku)
+![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/802791594/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2024/5/1</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>70</code>
+			<code>7</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2024/4/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>75</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2024/2/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2024/1/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2023/11/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/653105890/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/653105890/week.md)
+[![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/802791594/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/802791594/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/653105890/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/653105890/week.md)
+[![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/802791594/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/802791594/week.md)
 ```
 ### Header
-# OS-Simulation [<img alt="Image of my-views-counter" src="https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/653105890/small/year.png" height="20">](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/653105890/year.md)
+# Sudoku [<img alt="Image of my-views-counter" src="https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/802791594/small/year.png" height="20">](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/802791594/year.md)
 ```readme
-# OS-Simulation [<img alt="Image of my-views-counter" src="https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/653105890/small/year.png" height="20">](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/653105890/year.md)
+# Sudoku [<img alt="Image of my-views-counter" src="https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/802791594/small/year.png" height="20">](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/802791594/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -115,9 +115,105 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/735390494/small/year.png" height="20"> 74
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/788078219/year.md">
+				VisionVault
+			</a>
+		</td>
+		<td>
+			2024/5/26 1:48 AM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/788078219/small/year.png" height="20"> 153
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/802793033/year.md">
+				Parallel-Patient-Record-Management
+			</a>
+		</td>
+		<td>
+			2024/5/26 1:48 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/802793033/small/year.png" height="20"> 16
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/802791594/year.md">
+				Sudoku
+			</a>
+		</td>
+		<td>
+			2024/5/26 1:48 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/802791594/small/year.png" height="20"> 7
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/749389203/year.md">
+				Computer-Networks-Project
+			</a>
+		</td>
+		<td>
+			2024/5/26 12:00 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/749389203/small/year.png" height="20"> 9
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/664575819/year.md">
+				Numerical-Methods
+			</a>
+		</td>
+		<td>
+			2024/5/26 1:49 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/664575819/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/772928418/year.md">
+				Assignment-Portfolio
+			</a>
+		</td>
+		<td>
+			2024/5/26 1:49 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/772928418/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/5/29 1:45 AM UTC</i></small>
+<small><i>Last updated on 2024/5/29 1:49 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
