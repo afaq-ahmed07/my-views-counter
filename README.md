@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:25 AM UTC
+			2026/1/28 12:00 AM UTC
 		</td>
 		<td>
-			146
+			154
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/654522860/small/year.png" height="20"> 597
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/654522860/small/year.png" height="20"> 605
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:25 AM UTC
+			2026/1/28 5:15 PM UTC
 		</td>
 		<td>
 			17
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:25 AM UTC
+			2026/1/28 5:15 PM UTC
 		</td>
 		<td>
 			24
@@ -69,28 +69,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/608704106/year.md">
-				Prim-and-Kruskal
-			</a>
-		</td>
-		<td>
-			2025/4/13 2:25 AM UTC
-		</td>
-		<td>
-			25
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/608704106/small/year.png" height="20"> 111
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/654526552/year.md">
 				Food-Collector_Assembly_Language
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:26 AM UTC
+			2026/1/28 5:15 PM UTC
 		</td>
 		<td>
 			21
@@ -106,13 +90,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:26 AM UTC
+			2026/1/28 5:15 PM UTC
 		</td>
 		<td>
-			18
+			19
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/735390494/small/year.png" height="20"> 86
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/735390494/small/year.png" height="20"> 89
 		</td>
 	</tr>
 	<tr>
@@ -122,13 +106,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:26 AM UTC
+			2026/1/28 5:15 PM UTC
 		</td>
 		<td>
-			25
+			26
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/788078219/small/year.png" height="20"> 191
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/788078219/small/year.png" height="20"> 193
 		</td>
 	</tr>
 	<tr>
@@ -138,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:26 AM UTC
+			2026/1/28 5:15 PM UTC
 		</td>
 		<td>
 			19
@@ -154,13 +138,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:26 AM UTC
+			2026/1/28 5:15 PM UTC
 		</td>
 		<td>
-			7
+			8
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/802791594/small/year.png" height="20"> 32
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/802791594/small/year.png" height="20"> 33
 		</td>
 	</tr>
 	<tr>
@@ -170,50 +154,130 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 12:00 AM UTC
+			2026/1/28 12:00 AM UTC
 		</td>
 		<td>
-			164
+			289
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/749389203/small/year.png" height="20"> 294
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/664575819/year.md">
-				Numerical-Methods
-			</a>
-		</td>
-		<td>
-			2025/4/13 2:26 AM UTC
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/664575819/small/year.png" height="20"> 19
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/749389203/small/year.png" height="20"> 567
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/772928418/year.md">
-				Assignment-Portfolio
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/887387692/year.md">
+				SafeScroll
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:27 AM UTC
+			2026/1/28 12:00 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/887387692/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/925653473/year.md">
+				ai-dubbing-system
+			</a>
+		</td>
+		<td>
+			2026/1/27 12:00 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/925653473/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/905366282/year.md">
+				Poly-morph-Virus
+			</a>
+		</td>
+		<td>
+			2026/1/27 12:00 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/905366282/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/905359639/year.md">
+				Line-Swapper
+			</a>
+		</td>
+		<td>
+			2026/1/27 5:16 PM UTC
 		</td>
 		<td>
 			0
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/772928418/small/year.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/905359639/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/887387692/year.md">
+				SafeScroll
+			</a>
+		</td>
+		<td>
+			2026/1/28 12:00 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/887387692/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/1046294993/year.md">
+				UrlShortener
+			</a>
+		</td>
+		<td>
+			2026/1/27 12:00 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/1046294993/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/976155152/year.md">
+				Image-Captioning-Blip-2
+			</a>
+		</td>
+		<td>
+			2026/1/27 12:00 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/976155152/small/year.png" height="20"> 1
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/15 12:23 PM UTC</i></small>
+<small><i>Last updated on 2026/1/30 5:16 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
