@@ -21,6 +21,230 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/654522860/year.md">
+				Student-Managment-System-with-Oracle-Datab
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:55 AM UTC
+		</td>
+		<td>
+			217
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/654522860/small/year.png" height="20"> 693
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/606989314/year.md">
+				StudentManagmentSystem
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:55 AM UTC
+		</td>
+		<td>
+			19
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/606989314/small/year.png" height="20"> 45
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/653105890/year.md">
+				OS-Simulation
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:55 AM UTC
+		</td>
+		<td>
+			26
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/653105890/small/year.png" height="20"> 187
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/654526552/year.md">
+				Food-Collector_Assembly_Language
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:55 AM UTC
+		</td>
+		<td>
+			23
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/654526552/small/year.png" height="20"> 84
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/735390494/year.md">
+				Heart-Disease-Predictor
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:55 AM UTC
+		</td>
+		<td>
+			47
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/735390494/small/year.png" height="20"> 117
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/788078219/year.md">
+				VisionVault
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:55 AM UTC
+		</td>
+		<td>
+			30
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/788078219/small/year.png" height="20"> 197
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/802793033/year.md">
+				Parallel-Patient-Record-Management
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:55 AM UTC
+		</td>
+		<td>
+			21
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/802793033/small/year.png" height="20"> 78
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/802791594/year.md">
+				Sudoku
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:56 AM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/802791594/small/year.png" height="20"> 34
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/749389203/year.md">
+				Computer-Networks-Project
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:56 AM UTC
+		</td>
+		<td>
+			724
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/749389203/small/year.png" height="20"> 1365
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/887387692/year.md">
+				SafeScroll
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:56 AM UTC
+		</td>
+		<td>
+			15
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/887387692/small/year.png" height="20"> 47
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/925653473/year.md">
+				ai-dubbing-system
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:56 AM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/925653473/small/year.png" height="20"> 13
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/905366282/year.md">
+				Poly-morph-Virus
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:56 AM UTC
+		</td>
+		<td>
+			15
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/905366282/small/year.png" height="20"> 17
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/905359639/year.md">
+				Line-Swapper
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:56 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/905359639/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/887387692/year.md">
+				SafeScroll
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:56 AM UTC
+		</td>
+		<td>
+			15
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/afaq-ahmed07/my-views-counter/raw/master/graph/887387692/small/year.png" height="20"> 47
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/afaq-ahmed07/my-views-counter/tree/master/readme/1046294993/year.md">
 				UrlShortener
 			</a>
@@ -53,7 +277,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/6/10 3:32 PM UTC</i></small>
+<small><i>Last updated on 2026/6/10 8:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
