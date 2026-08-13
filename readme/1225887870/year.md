@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/afaq-ahmed07/my-views-counter)
 
-### :octocat: [Parallel-Patient-Record-Management](https://github.com/afaq-ahmed07/Parallel-Patient-Record-Management)
-![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/802793033/large/year.png)
+### :octocat: [FAQ_RAG](https://github.com/afaq-ahmed07/FAQ_RAG)
+![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/1225887870/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -78,10 +78,10 @@
 			<code>2026/3/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2026/2/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2026/8/13 7:15 PM UTC</i></small>
+<small><i>Last updated on 2026/8/13 7:16 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/802793033/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/802793033/week.md)
+[![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/1225887870/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/1225887870/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/802793033/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/802793033/week.md)
+[![Image of my-views-counter](https://github.com/afaq-ahmed07/my-views-counter/blob/master/svg/1225887870/badge.svg)](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/1225887870/week.md)
 ```
 ### Header
-# Parallel-Patient-Record-Management [<img alt="Image of my-views-counter" src="https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/802793033/small/year.png" height="20">](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/802793033/year.md)
+# FAQ_RAG [<img alt="Image of my-views-counter" src="https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/1225887870/small/year.png" height="20">](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/1225887870/year.md)
 ```readme
-# Parallel-Patient-Record-Management [<img alt="Image of my-views-counter" src="https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/802793033/small/year.png" height="20">](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/802793033/year.md)
+# FAQ_RAG [<img alt="Image of my-views-counter" src="https://github.com/afaq-ahmed07/my-views-counter/blob/master/graph/1225887870/small/year.png" height="20">](https://github.com/afaq-ahmed07/my-views-counter/blob/master/readme/1225887870/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
